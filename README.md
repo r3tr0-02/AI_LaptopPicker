@@ -18,4 +18,4 @@ License of this project are in LICENSE file, using MIT.
 
 # DISCLAIMER
 Original group repository is in https://github.com/AmousuLee/AI_5Baka.
-Credit due to @AmousuLee and @RET2YU : original collaborators.
+Credit due to <a href="https://github.com/AmousuLee">AmousuLee</a> , <a href="https://github.com/Ret2y">Ret2y</a> and <a href="https://github.com/Irasaki99">Irasaki99</a> : original collaborators.
